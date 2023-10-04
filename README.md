@@ -16,7 +16,7 @@ Start the server
 
 ` npm run start`
 
-[View Live](https://discord-sahil.vercel.app/)
+[View Live](https://discord-sahilll.vercel.app/)
 
 ## 🔗 Let's Connect
 
